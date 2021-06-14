@@ -1,0 +1,1 @@
+find all .ts and concat 
